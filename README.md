@@ -77,25 +77,11 @@ Currently focusing on:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OpticsValley&show_icons=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpticsValley&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/OpticsValley/OpticsValley/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/OpticsValleyMC/OpticsValleyMC/refs/heads/gh-pages/github-contribution-grid-snake.svg"/>
 
 </div>
 
